@@ -2,6 +2,9 @@
 
 A machine learning project that predicts customer credit risk using the German Credit Dataset. The model classifies applicants as **Low Risk (Good)** or **High Risk (Bad)** based on financial and demographic information.
 
+## Live Demo
+👉 [Try the App](https://credit-risk-prediction.streamlit.app)
+
 ## Features
 
 - Data preprocessing and feature encoding
